@@ -1,4 +1,0 @@
-hi we are learning git
-hello world
-I'm here
-working 
